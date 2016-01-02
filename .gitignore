@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+app/src/main/java/com/android/example/plamena/moviesapp/Keys.java
+app/build
+app/libs
